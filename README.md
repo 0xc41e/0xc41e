@@ -2,7 +2,7 @@
 <h3>0x17 years old Penetration Tester | Maldev Addict | Do RE & Red Team stuff | PNPT, eJPT | Currently pursuing OSCP[</h3>
 
 ## 🎯 TryHackMe Stats
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xc41e.png)](https://tryhackme.com/p/0xc41e)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xc41e.png?cache-control=no-cache)](https://tryhackme.com/p/0xc41e)
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xc41e&show_icons=true&theme=tokyonight" alt="0xc41e GitHub Stats"
