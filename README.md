@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm 0xc41e</h1>
-<h3>Cybersecurity | Red Team | TryHackMe Player</h3>
+<h3>0x17 years old Penetration Tester | Maldev Addict | Do RE & Red Team stuff | PNPT, eJPT | Currently pursuing OSCP[</h3>
 
 ## 🎯 TryHackMe Stats
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xc41e.png" alt="0xc41e TryHackMe Badge" />
