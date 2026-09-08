@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi 👋, I'm 0xc41e</h1>
+<h3>Cybersecurity | Red Team | TryHackMe Player</h3>
 
-<!--
-**0xc41e/0xc41e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 TryHackMe Stats
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xc41e.png" alt="0xc41e TryHackMe Badge" />
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xc41e&show_icons=true&theme=tokyonight" alt="0xc41e GitHub Stats" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Pentest](https://img.shields.io/badge/Pentest-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
+![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-00599C?style=for-the-badge&logo=w3c&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=raspberrypi&logoColor=white)
