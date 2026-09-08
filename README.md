@@ -7,7 +7,7 @@
 <img src="https://www.hackthebox.com/badge/image/1609548" alt="0xc4t HTB Badge" />
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xc4t&show_icons=true&theme=tokyonight" alt="0xc4t GitHub Stats" />
+<a href="http://www.github.com/0xneobyte"><img src="https://github-readme-streak-stats-black-beta.vercel.app/?user=0xneobyte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## 🛠️ Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
