@@ -1,11 +1,13 @@
-<h1>Hi 👋, I'm 0xc41e</h1>
-<h3>0x17 years old Penetration Tester | Maldev Addict | Do RE & Red Team stuff | PNPT, eJPT | Currently pursuing OSCP[</h3>
+<h1>Hi 👋, I'm 0xc4t</h1>
+<h3>Penetration Tester | Red Team | Hack The Box Player</h3>
 
-## 🎯 TryHackMe Stats
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xc41e.png?cache-control=no-cache)](https://tryhackme.com/p/0xc41e)
+0x13 years old Penetration Tester | Maldev Addict | Do RE & Red Team stuff | eWPTX, eCCPT, CRTA, eJPT | Currently pursuing CRTO and CRTP
+
+## 🧠 Hack The Box Stats
+<img src="https://www.hackthebox.com/badge/image/1609548" alt="0xc4t HTB Badge" />
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xc41e&show_icons=true&theme=tokyonight" alt="0xc41e GitHub Stats"
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xc4t&show_icons=true&theme=tokyonight" alt="0xc4t GitHub Stats" />
 
 ## 🛠️ Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
